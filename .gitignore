@@ -7,3 +7,7 @@ liquibase.local.properties
 *.log
 .DS_Store
 Thumbs.db
+
+# Dependencias locales de Liquibase LPM
+liquibase.json
+liquibase_libs/
